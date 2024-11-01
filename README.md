@@ -26,7 +26,7 @@ pip install pyautogui keyboard
 1. **Clone this repository**:
 
    ```bash
-   git clone https://github.com/your-username/AutoClicker.git
+   git clone https://github.com/Fear2o/CrazyClicker
    cd CrazyClicker
    ```
 

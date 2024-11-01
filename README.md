@@ -30,6 +30,12 @@ pip install pyautogui keyboard
    cd CrazyClicker
    ```
 
+2. **Make sure the dependencies are installed:**
+
+```bash
+pip install -r requirements.txt
+```   
+
 2. **Run The Script:**
 
 ```bash

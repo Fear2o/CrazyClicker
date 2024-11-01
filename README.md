@@ -23,7 +23,7 @@ pip install pyautogui keyboard
 
 ## Usage
 
-1. **Clone this repository**:
+1. **Clone this repository and change to its directory**:
 
    ```bash
    git clone https://github.com/Fear2o/CrazyClicker

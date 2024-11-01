@@ -1,6 +1,6 @@
 # CrazyClicker
 
-A simple Python-based auto-clicker tool that allows users to click at an incredibly high speed—up to 1000 clicks per second. Toggle the clicker on and off with a hotkey, and exit the program with another. Useful for automation tasks, testing, or for increasing speed in specific applications.
+A simple Python-based auto-clicker tool that allows users to click at a speed going up to 10 clicks per second (the max speed is 1000 CPS and the clicking speed depends on your hardware). Toggle the clicker on and off with a hotkey, and exit the program with another. Useful for automation tasks, testing, or for increasing speed in specific applications.
 
 ## Features
 
